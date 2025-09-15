@@ -2,7 +2,7 @@
 
 A classic 2-player Pong game built in Unity for **CMS 320 - Video Game Design** class at Rollins College
 
----
+
 
 ## 👉 Overview & Requirements
 
@@ -15,7 +15,7 @@ Create a simple 2-player ping-pong game with the following requirements:
 - Display the winning player
 - One advanced feature (here the speed of the ball is increased by 10% everytime it hits paddle)
 
----
+
 
 ## 🧠 Features 
 
@@ -36,7 +36,7 @@ Create a simple 2-player ping-pong game with the following requirements:
   - Ball speed increases by 10% with every paddle collision
   - Middle dotted line (Background)
  
----
+
 
 ## 🛠️ How to Run
 
@@ -50,7 +50,7 @@ Then in Unity:
 2. Load SampleScene.unity
 3. Click Play
 
----
+
 
 ## 🔥 Game Flow
 
@@ -59,7 +59,7 @@ Then in Unity:
 3. Play to rally the ball; first to 5 points wins
 4. After a point or a new game start, paddles and ball reset automatically
 
----
+
 
 ## 📖 Acknowledgments
 
