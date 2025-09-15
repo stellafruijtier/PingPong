@@ -55,6 +55,8 @@ public class GameManager : MonoBehaviour
         scorePlayer1 = 0;
         scorePlayer2 = 0;
         gameUI.UpdateScores(scorePlayer1, scorePlayer2);
+
+        onReset?.Invoke();
     }
 
 
