@@ -3,7 +3,6 @@
 A classic 2-player Pong game built in Unity for **CMS 320 - Video Game Design** class at Rollins College
 
 
-
 ## 👉 Overview & Requirements
 
 Create a simple 2-player ping-pong game with the following requirements:
@@ -14,7 +13,6 @@ Create a simple 2-player ping-pong game with the following requirements:
 - A win occurs at **5 points**
 - Display the winning player
 - One advanced feature (here the speed of the ball is increased by 10% everytime it hits paddle)
-
 
 
 ## 🧠 Features 
@@ -37,7 +35,6 @@ Create a simple 2-player ping-pong game with the following requirements:
   - Middle dotted line (Background)
  
 
-
 ## 🛠️ How to Run
 
 <pre>
@@ -51,7 +48,6 @@ Then in Unity:
 3. Click Play
 
 
-
 ## 🔥 Game Flow
 
 1. Launch --> Start menu appears
@@ -60,9 +56,6 @@ Then in Unity:
 4. After a point or a new game start, paddles and ball reset automatically
 
 
-
 ## 📖 Acknowledgments
 
 This project was inspired by assignments and materials from Dr. Tisha, whose examples and explanations in video game design helped guide this work for the **Video Game Design** class at Rollins College.
-
-
